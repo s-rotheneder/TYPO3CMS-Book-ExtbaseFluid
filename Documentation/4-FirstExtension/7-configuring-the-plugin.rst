@@ -59,7 +59,7 @@ of the content element *Plugin*. For this we insert the following line into the 
         );
 
 The first argument is like the method ``configurePlugin()`` again the extension key
-and the second is the name of the plugin. THe third argument is an arbitrary, not to long,
+and the second is the name of the plugin. The third argument is an arbitrary, not to long,
 title of the plugin for the selection box of the content element. After installation of the
 extension we can insert the plugin on a page. Don't forget to set the sys folder, in which the
 products are stored, as the starting point (in our case "Inventory") in the plugin.
@@ -86,9 +86,9 @@ For a full-grown extension there are some ingedients missing:
 
 * Multiple different views have to be generated (single view, list view with search and so on).
 
-* The user of the web site should be interact with the data by different modes (edit, create, sort and so on).
+* The user of the web site should be able to interact with the data by different modes (edit, create, sort and so on).
 
-* Input from the web sie user has to check (validate) for consistence.
+* Input from the web site user has to check (validate) for consistence.
 
 The sample extension we show from chapter 5 on, is significant multifaceted.
 
